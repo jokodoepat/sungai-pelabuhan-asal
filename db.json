@@ -1,0 +1,21 @@
+{
+    "pelabuhanAsal": {
+        "responseCode": "RSx700001",
+        "responseMessage": "Ferizy Service - RsRsOriginRf Sukses",
+        "responseReferenceNo": "04ad4af3816143d795c12530c519c654",
+        "pelabuhanAsal": {
+            "id": "pelabuhan-asal",
+            "name": "Pelabuhan Asal",
+            "data": [
+                {
+                    "harbor": "Ajibata",
+                    "city": "Sibolga"
+                },
+                {
+                    "harbor": "Ambarita",
+                    "city": "Sibolga"
+                }
+            ]
+        }
+    }
+}
